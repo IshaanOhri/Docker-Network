@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  Understanding difference in network formation via native docker run commands and docker-compose
+  Understanding the differences in network formation via native docker run commands and docker-compose
 </p>
 
 <br>
