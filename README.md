@@ -29,7 +29,7 @@ Any contributions you make are **greatly appreciated**.
 <br>
 
 ## License
-The project is distributed under the MIT License. See [LICENSE](Add link to LICENSE) for more information.
+The project is distributed under the MIT License. See [LICENSE](https://github.com/IshaanOhri/Docker-Network/blob/main/LICENSE) for more information.
 
 <br>
 
