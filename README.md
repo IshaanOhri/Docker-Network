@@ -34,7 +34,6 @@ The project is distributed under the MIT License. See [LICENSE](https://github.c
 
 <br>
 <br>
-<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ishaanohri/">
