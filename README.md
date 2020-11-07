@@ -14,8 +14,6 @@
   Understanding the differences in network formation via native docker run commands and docker-compose
 </p>
 
-<br>
-
 ## Contributing
 
 Any contributions you make are **greatly appreciated**.
@@ -26,12 +24,8 @@ Any contributions you make are **greatly appreciated**.
 4. Push to the Branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
 
-<br>
-
 ## License
 The project is distributed under the MIT License. See [LICENSE](https://github.com/IshaanOhri/Docker-Network/blob/main/LICENSE) for more information.
-
-<br>
 
 ## Tech Stacks / Tools used
 <p>
