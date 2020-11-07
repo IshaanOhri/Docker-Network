@@ -29,7 +29,7 @@ The project is distributed under the MIT License. See [LICENSE](https://github.c
 
 ## Tech Stacks / Tools used
 <p>
-  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/docker.png" height=50>
+  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/docker.png" height=40>
 </p>
 
 <br>
