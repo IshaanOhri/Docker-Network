@@ -6,7 +6,7 @@ const app = express();
 
 app.get('/', (req, res) => {
 
-    fetch('http://server2:4000/')
+    fetch('http://container-b:4000/')
         .then(res => res.json())
         .then(body => {
             res.send({
