@@ -1,6 +1,4 @@
-<code>
-  <h1 align="center">Docker Network</h1>
-</code>
+<code><h1 align="center">Docker Network</h1></code>
 
 <div align="center">
   <img src="https://img.shields.io/github/repo-size/IshaanOhri/Docker-Network?logo=github" hspace="5">
