@@ -12,9 +12,11 @@
 
 <p align="center">
   Understanding the differences in network formation via native docker run commands and docker-compose
-  
-  📝 <a href="https://medium.com/adg-vit/understanding-networks-in-docker-da7bb8d9442c">Read blog...</a> 📝
 </p>
+
+<div align="center">
+  📝 <a href="https://medium.com/adg-vit/understanding-networks-in-docker-da7bb8d9442c">Read Blog</a> 📝
+</div>
 
 ## Contributing
 
