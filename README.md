@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-  📝 <a href="https://medium.com/adg-vit/understanding-networks-in-docker-da7bb8d9442c">Read Blog</a> 📝
+  📝 <a target="_blank" href="https://medium.com/adg-vit/understanding-networks-in-docker-da7bb8d9442c">Read Blog</a> 📝
 </div>
 
 ## Contributing
